@@ -22,7 +22,7 @@ I love learning about new tech, music, tabletop and video games, and cooking!
 <br />
 
 Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/Wil-Silver44/Wil-Silver44/issues/new)** or <a href="mailto:wilver.santos84@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here](https://github.com/Wil-silver44/Arisoren/issues/new)** or <a href="mailto:wilver.santos84@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
