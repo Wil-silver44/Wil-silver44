@@ -11,7 +11,7 @@
 <br />
 <br />
 
-I'm Wilver, Software Engineer and senior at The University of West Florida graduating in Fall 2024 with Computer Science with a concentration in Software Engineering!
+I'm Wilver, Software Engineer and Recent Graduate from The University of West Florida with Computer Science with a concentration in Software Engineering!
 <br />
 
 I'm currently based in **[Pensacola, Florida US.](https://goo.gl/maps/9tTtGyytAgpaPeuQ9)**
